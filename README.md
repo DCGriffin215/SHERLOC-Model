@@ -21,5 +21,5 @@
 
 # Requirements
 ```
-install.packages(c("parallel","flexsurv","survival", "MASS"))
+install.packages(c("parallel","flexsurv","survival", "MASS","ggplot2","tidyverse","survminer","scales"))
 ```
