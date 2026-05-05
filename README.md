@@ -3,6 +3,7 @@
 
 
 # Project Structure
+```
 ├── README.md  
 ├── NSCLC microsim scripts/  
 │   ├── NSCLC microsim data/          # Regression model parameters and covariance matrices  
@@ -16,3 +17,4 @@
 │   ├── Save_outputs_determ.R   	    # Save results from 'NSCLC microsim git.R' to 'outputs/'  
 │   ├── Determ_analysis    		        # Summary statistics and plots for the deterministic model  
 │   └── Prob_analysis                 # Summary statistics and plots for the probabilistic model
+```
