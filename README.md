@@ -18,3 +18,8 @@
 │   ├── Determ_analysis    		   # Summary statistics and plots for the deterministic model
 │   └── Prob_analysis                 # Summary statistics and plots for the probabilistic model
 ```
+
+# Requirements
+```
+install.packages(c("parallel","flexsurv","survival", "MASS"))
+```
