@@ -11,7 +11,7 @@
 │   ├── Parms_sample.R            	  # Samples parametric distribution parameters  
 │   ├── Probs_PSA.R              	    # Computes transition probabilities for 'j' second-order iteration of probabilistic model  
 │   ├── NSCLC microsim git.R          # deterministic microsimulation model  
-│   └── Probs_determ.R                # Computes transition probabilities for deterministic model  
+│   ├── Probs_determ.R                # Computes transition probabilities for deterministic model  
 │   ├── optputs & figures/                   
 │   ├── Save_outputs_prob.R  		      # Save results from 'NSCLC microsim git prob.R' to 'outputs/'  
 │   ├── Save_outputs_determ.R   	    # Save results from 'NSCLC microsim git.R' to 'outputs/'  
