@@ -13,7 +13,7 @@
 │   ├── NSCLC microsim git.R          # deterministic microsimulation model
 │   └── Probs_determ.R                # Computes transition probabilities for deterministic model
 │   ├── optputs & figures/                 
-│   ├── Save_outputs_prob.R  		   # Save results from 'NSCLC microsim git prob.R' to 'outputs/'
+│   ├── Save_outputs_prob.R  		  # Save results from 'NSCLC microsim git prob.R' to 'outputs/'
 │   ├── Save_outputs_determ.R   	  # Save results from 'NSCLC microsim git.R' to 'outputs/'
 │   ├── Determ_analysis    		      # Summary statistics and plots for the deterministic model
 │   └── Prob_analysis                 # Summary statistics and plots for the probabilistic model
