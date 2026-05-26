@@ -1,5 +1,5 @@
 # NSCLC-microsim
-This repository contains the code associated with the manuscript "Development and Validation of a Disease Model for Non-Small Cell Lung Cancer". Where the development and validation of the model conatined in this repository is described and a case study is performed evaluation the cost effectiveness of the FLAURA2 and MARIPOSA trials, two trials comparing Osimertinib plus platinum pemetrexed and Amivantimab plus Lazertinib against Osimertinib monotherapy in the first line EGFR positive setting.
+This repository contains the code associated with the manuscript "Development and Validation of a Disease Model for Non-Small Cell Lung Cancer". Where the development and validation of the model conatined in this repository is described and a case study is performed evaluating the cost effectiveness of the FLAURA2 and MARIPOSA trials, two trials comparing Osimertinib plus platinum pemetrexed and Amivantimab plus Lazertinib against Osimertinib monotherapy in the first line EGFR positive setting.
 
 # Project Structure
 ```
