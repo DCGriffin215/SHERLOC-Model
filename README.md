@@ -20,5 +20,5 @@ This repository contains the code associated with the manuscript "Development an
 
 # Requirements
 ```
-install.packages(c("parallel","flexsurv","survival", "MASS","ggplot2","tidyverse","survminer","scales", "patchwork"))
+install.packages(c("parallel","flexsurv","survival", "MASS","ggplot2","tidyverse","scales", "patchwork"))
 ```
