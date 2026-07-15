@@ -1,5 +1,5 @@
-# NSCLC-microsim
-This repository contains the code associated with the manuscript "Development and Validation of a Disease Model for Non-Small Cell Lung Cancer". Where the development and validation of the model conatined in this repository is described and a case study is performed evaluating the cost effectiveness of the FLAURA2 and MARIPOSA trials, two trials comparing Osimertinib plus platinum pemetrexed and Amivantimab plus Lazertinib against Osimertinib monotherapy in the first line EGFR positive setting.
+# SHERLOC Model
+This repository contains the code associated with the manuscript "Development and Validation of the SHERLOC Model: A Disease Model for Non-Small Cell Lung Cancer". Where the development and validation of the "Simulation for the Health Economics of Routine NSCLC Oncology in Canada" or SHERLOC model conatined in this repository is described and a case study is performed evaluating the cost effectiveness of the FLAURA2 and MARIPOSA trials, two trials comparing Osimertinib plus platinum pemetrexed and Amivantimab plus Lazertinib against Osimertinib monotherapy in the first line EGFR positive setting.
 
 # Project Structure
 ```
